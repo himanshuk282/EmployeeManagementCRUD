@@ -1,0 +1,174 @@
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\appsettings.Development.json
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\appsettings.json
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\EmployeeManagement API.exe
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\EmployeeManagement API.deps.json
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\EmployeeManagement API.runtimeconfig.json
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\EmployeeManagement API.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\EmployeeManagement API.pdb
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Azure.Core.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Azure.Identity.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Humanizer.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.CodeDom.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.Text.Json.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.csproj.AssemblyReference.cache
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.AssemblyInfoInputs.cache
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.AssemblyInfo.cs
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.csproj.CoreCompileInputs.cache
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.MvcApplicationPartsAssemblyInfo.cs
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.MvcApplicationPartsAssemblyInfo.cache
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagement API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagement API.props
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement API.props
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement API.props
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement API.styles.css
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.csproj.CopyComplete
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\refint\EmployeeManagement API.dll
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.pdb
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.genruntimeconfig.cache
+D:\Himanshu's Learnings\Projects\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\ref\EmployeeManagement API.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\appsettings.Development.json
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\appsettings.json
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\EmployeeManagement API.exe
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\EmployeeManagement API.deps.json
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\EmployeeManagement API.runtimeconfig.json
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\EmployeeManagement API.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\EmployeeManagement API.pdb
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Azure.Core.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Azure.Identity.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Humanizer.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.CodeDom.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.Text.Json.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.csproj.AssemblyReference.cache
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.AssemblyInfoInputs.cache
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.AssemblyInfo.cs
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.csproj.CoreCompileInputs.cache
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.MvcApplicationPartsAssemblyInfo.cs
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.MvcApplicationPartsAssemblyInfo.cache
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagement API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagement API.props
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement API.props
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement API.props
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement API.styles.css
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.csproj.CopyComplete
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\refint\EmployeeManagement API.dll
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.pdb
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\EmployeeManagement API.genruntimeconfig.cache
+D:\Himanshu's Learnings\Projects\Employee Management\FullStack API\EmployeeManagement API\EmployeeManagement API\obj\Debug\net6.0\ref\EmployeeManagement API.dll
